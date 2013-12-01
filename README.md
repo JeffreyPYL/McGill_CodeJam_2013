@@ -17,4 +17,4 @@ pwd: outofthebox
 
 The applications that we submit for CodeJam is "zend".
 
-You may clone to gain access to the code but please do not change the code on line.
+You may clone to gain access to the code but please do not change the code online.
